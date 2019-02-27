@@ -2,4 +2,4 @@
 
 #### A game which enables walking around a small space in a first-person perspective. Created with Unity, using free materials from the Unity marketplace, a 3D scan of the Apollo Belvedere by SMK - National Gallery of Denmark, and modeling help from Brian Hughes. Some textures and music by Gareth Petterson.
 
-#### NOTE: The Apollo Belvedere is a mostly nude statue, viewing discretion is advised.
+#### NOTE: The Apollo Belvedere is a mostly nude sculpture, viewing discretion is advised.
